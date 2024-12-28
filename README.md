@@ -1,2 +1,10 @@
-# DSA-Mansoura-Univeristy-2025
-Computer and information science faculty DSA content 2025
+<h1 align="center">DSA-Mansoura-Univeristy-2025</h1>
+<p align="center">Computer and information science faculty DSA content 2025</p>
+<hr/>
+<ul>
+<li>يسطا المادة مش محتاجة منك غير برود اعصاب عشان حرفيا المادة مش محتاجة كل التسييط دة.</li>
+<li>دة محتوى دفعتي 2025 الي ممكن يختلف من دفعة لدفعة ان ممكن حاجة تتلغي. بس المنهج دة معاك لحد يوم القيامة الإختلاف مش هيكون كبير</li>
+<li>افهم الdata type وافهم الoperations واستهلاكها للمساحة بيكون عامل ازاي وتوكل على الله.</li>
+<li>الimpelementaion بتاعي غير بتاعك غير بتاع الدكتورة او الدكتور طول منت بتطلع المطلوب صح. دكتورة سارة كانت قايلة كدة</li>
+<li>انا حاطت الimpelementation بتاعي عشان لو اتزنقت انت او مش فاهم حاجة.</li>
+</ul>
